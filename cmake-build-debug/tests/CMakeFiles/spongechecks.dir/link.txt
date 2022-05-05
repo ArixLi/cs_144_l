@@ -1,0 +1,2 @@
+F:\MinGW\mingw64\bin\ar.exe qc libspongechecks.a CMakeFiles/spongechecks.dir/byte_stream_test_harness.cc.obj
+F:\MinGW\mingw64\bin\ranlib.exe libspongechecks.a

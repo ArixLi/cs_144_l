@@ -1,0 +1,3 @@
+"F:\CLion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\byte_stream_capacity.dir/objects.a
+F:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\byte_stream_capacity.dir/objects.a @CMakeFiles\byte_stream_capacity.dir\objects1.rsp
+F:\MinGW\mingw64\bin\g++.exe  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -Wl,--whole-archive CMakeFiles\byte_stream_capacity.dir/objects.a -Wl,--no-whole-archive -o byte_stream_capacity.exe -Wl,--out-implib,libbyte_stream_capacity.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\byte_stream_capacity.dir\linklibs.rsp

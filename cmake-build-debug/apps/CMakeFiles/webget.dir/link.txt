@@ -1,0 +1,3 @@
+"F:\CLion\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\webget.dir/objects.a
+F:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\webget.dir/objects.a @CMakeFiles\webget.dir\objects1.rsp
+F:\MinGW\mingw64\bin\g++.exe  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -Wl,--whole-archive CMakeFiles\webget.dir/objects.a -Wl,--no-whole-archive -o webget.exe -Wl,--out-implib,libwebget.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\webget.dir\linklibs.rsp

@@ -1,0 +1,97 @@
+[
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/libsponge",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/sponge.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\sponge.dir\\byte_stream.cc.obj -c F:\\CS\\CS144\\sponge\\libsponge\\byte_stream.cc",
+  "file": "F:/CS/CS144/sponge/libsponge/byte_stream.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/libsponge",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/sponge.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\sponge.dir\\util\\address.cc.obj -c F:\\CS\\CS144\\sponge\\libsponge\\util\\address.cc",
+  "file": "F:/CS/CS144/sponge/libsponge/util/address.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/libsponge",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/sponge.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\sponge.dir\\util\\buffer.cc.obj -c F:\\CS\\CS144\\sponge\\libsponge\\util\\buffer.cc",
+  "file": "F:/CS/CS144/sponge/libsponge/util/buffer.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/libsponge",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/sponge.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\sponge.dir\\util\\eventloop.cc.obj -c F:\\CS\\CS144\\sponge\\libsponge\\util\\eventloop.cc",
+  "file": "F:/CS/CS144/sponge/libsponge/util/eventloop.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/libsponge",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/sponge.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\sponge.dir\\util\\file_descriptor.cc.obj -c F:\\CS\\CS144\\sponge\\libsponge\\util\\file_descriptor.cc",
+  "file": "F:/CS/CS144/sponge/libsponge/util/file_descriptor.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/libsponge",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/sponge.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\sponge.dir\\util\\parser.cc.obj -c F:\\CS\\CS144\\sponge\\libsponge\\util\\parser.cc",
+  "file": "F:/CS/CS144/sponge/libsponge/util/parser.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/libsponge",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/sponge.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\sponge.dir\\util\\socket.cc.obj -c F:\\CS\\CS144\\sponge\\libsponge\\util\\socket.cc",
+  "file": "F:/CS/CS144/sponge/libsponge/util/socket.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/libsponge",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/sponge.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\sponge.dir\\util\\tun.cc.obj -c F:\\CS\\CS144\\sponge\\libsponge\\util\\tun.cc",
+  "file": "F:/CS/CS144/sponge/libsponge/util/tun.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/libsponge",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/sponge.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\sponge.dir\\util\\util.cc.obj -c F:\\CS\\CS144\\sponge\\libsponge\\util\\util.cc",
+  "file": "F:/CS/CS144/sponge/libsponge/util/util.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/apps",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/webget.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\webget.dir\\webget.cc.obj -c F:\\CS\\CS144\\sponge\\apps\\webget.cc",
+  "file": "F:/CS/CS144/sponge/apps/webget.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/tests",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/spongechecks.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\spongechecks.dir\\byte_stream_test_harness.cc.obj -c F:\\CS\\CS144\\sponge\\tests\\byte_stream_test_harness.cc",
+  "file": "F:/CS/CS144/sponge/tests/byte_stream_test_harness.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/tests",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_construction.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\byte_stream_construction.dir\\byte_stream_construction.cc.obj -c F:\\CS\\CS144\\sponge\\tests\\byte_stream_construction.cc",
+  "file": "F:/CS/CS144/sponge/tests/byte_stream_construction.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/tests",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_one_write.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\byte_stream_one_write.dir\\byte_stream_one_write.cc.obj -c F:\\CS\\CS144\\sponge\\tests\\byte_stream_one_write.cc",
+  "file": "F:/CS/CS144/sponge/tests/byte_stream_one_write.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/tests",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_two_writes.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\byte_stream_two_writes.dir\\byte_stream_two_writes.cc.obj -c F:\\CS\\CS144\\sponge\\tests\\byte_stream_two_writes.cc",
+  "file": "F:/CS/CS144/sponge/tests/byte_stream_two_writes.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/tests",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_capacity.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\byte_stream_capacity.dir\\byte_stream_capacity.cc.obj -c F:\\CS\\CS144\\sponge\\tests\\byte_stream_capacity.cc",
+  "file": "F:/CS/CS144/sponge/tests/byte_stream_capacity.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/tests",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/byte_stream_many_writes.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\byte_stream_many_writes.dir\\byte_stream_many_writes.cc.obj -c F:\\CS\\CS144\\sponge\\tests\\byte_stream_many_writes.cc",
+  "file": "F:/CS/CS144/sponge/tests/byte_stream_many_writes.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/doctests",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/address_dt.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\address_dt.dir\\address_dt.cc.obj -c F:\\CS\\CS144\\sponge\\doctests\\address_dt.cc",
+  "file": "F:/CS/CS144/sponge/doctests/address_dt.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/doctests",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/parser_dt.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\parser_dt.dir\\parser_dt.cc.obj -c F:\\CS\\CS144\\sponge\\doctests\\parser_dt.cc",
+  "file": "F:/CS/CS144/sponge/doctests/parser_dt.cc"
+},
+{
+  "directory": "F:/CS/CS144/sponge/cmake-build-debug/doctests",
+  "command": "F:\\MinGW\\mingw64\\bin\\g++.exe  @CMakeFiles/socket_dt.dir/includes_CXX.rsp  -std=c++17 -g -pedantic -pedantic-errors -Werror -Wall -Wextra -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Weffc++ -Wold-style-cast -g -ggdb3 -Og -std=gnu++17 -o CMakeFiles\\socket_dt.dir\\socket_dt.cc.obj -c F:\\CS\\CS144\\sponge\\doctests\\socket_dt.cc",
+  "file": "F:/CS/CS144/sponge/doctests/socket_dt.cc"
+}
+]
